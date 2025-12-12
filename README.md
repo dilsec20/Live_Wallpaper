@@ -12,7 +12,7 @@ A modern Android application that allows users to set their own videos as live w
 
 Check out the app in action:
 
-<video src="/demo.mp4" width="600">
+<video src="demo.mp4" width="600">
 
 *(Note: Replace `screenshots/demo.gif` with your actual video or GIF file path)*
 
