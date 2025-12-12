@@ -12,13 +12,6 @@ A modern Android application that allows users to set their own videos as live w
 
 Check out the app in action:
 
-<video width="600" controls>
-  <source src="demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
-*(Note: Replace `screenshots/demo.gif` with your actual video or GIF file path)*
 
 ## ✨ Features
 
@@ -36,6 +29,8 @@ Check out the app in action:
 *   **Architecture**: MVVM-inspired structure
 
 ## 🚀 How to Run
+
+just Download apk file 
 
 1.  Clone the repository:
     ```bash
