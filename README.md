@@ -6,7 +6,7 @@ A modern Android application that allows users to set their own videos as live w
 
 | Home Screen | Select Video |
 |:---:|:---:|
-| <img src="/home.jpg" width="300"> | <img src="screenshots/select_video.jpg" width="300"> |
+| <img src="/home.jpg" width="300"> | <img src="demo.mp4" width="300"> |
 
 ## 🎥 Demo
 
