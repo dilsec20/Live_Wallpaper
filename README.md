@@ -4,7 +4,7 @@ A modern Android application that allows users to set their own videos as live w
 
 ## 📱 Screenshots
 
-| Home Screen | Select Video |
+| APP UI | PHONE HOMESCREEN |
 |:---:|:---:|
 | <img src="/home.jpg" width="300"> | <img src="demo.gif" width="300"> |
 
@@ -31,6 +31,8 @@ Check out the app in action:
 ## 🚀 How to Run
 
 just Download apk file 
+and chose install anyway .
+then chose the video and set to it as a live wallpaper
 
 1.  Clone the repository:
     ```bash
