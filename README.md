@@ -6,13 +6,13 @@ A modern Android application that allows users to set their own videos as live w
 
 | Home Screen | Select Video |
 |:---:|:---:|
-| <img src="/home.jpg" width="300"> | <img src="demo.mp4" width="300"> |
+| <img src="/home.jpg" width="300"> | <img src="demo.gif" width="300"> |
 
 ## 🎥 Demo
 
 Check out the app in action:
 
-<img src="screenshots/demo.gif" width="600">
+<video src="/demo.mp4" width="600">
 
 *(Note: Replace `screenshots/demo.gif` with your actual video or GIF file path)*
 
